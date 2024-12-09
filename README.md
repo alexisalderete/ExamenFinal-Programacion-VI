@@ -1,6 +1,7 @@
 # Plataforma educativa para ver y cargar las calificaciones de estudiantes hecho con flet
 
-pasos para ejecutar el programa:
+> [!IMPORTANT]
+# pasos para ejecutar el programa:
 # 1. Instalar y configurar XAMPP
 Descargar e instalar XAMPP
 Inicia los servicios Apache (opcional, solo para PHP si lo necesitas) y MySQL.
