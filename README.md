@@ -1,4 +1,4 @@
-Plataforma educativa para ver y cargar las calificaciones de estudiantes hecho con flet
+# Plataforma educativa para ver y cargar las calificaciones de estudiantes hecho con flet
 
 pasos para ejecutar el programa:
 # 1. Instalar y configurar XAMPP
